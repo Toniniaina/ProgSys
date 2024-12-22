@@ -1,0 +1,10 @@
+{
+    "proxy port":3001,
+    "server Source":"localhost",
+    "server Port":80,
+    "max cache size":100000,
+    "cache duration":40,
+    "enable client":true,
+    "prompt enable":true,
+    "guiPanel enable":false
+}

@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS h_image;
+DROP TABLE IF EXISTS h_produits;
+DROP TABLE IF EXISTS h_categories;
+DROP TABLE IF EXISTS h_admin;

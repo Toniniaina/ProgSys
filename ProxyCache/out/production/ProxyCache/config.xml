@@ -1,0 +1,8 @@
+<configuration>
+    <proxy>
+        <port>8081</port>
+        <serverBaseURL>http://127.0.0.1</serverBaseURL>
+        <cacheSize>10</cacheSize>
+        <cacheTTL>60000</cacheTTL>
+    </proxy>
+</configuration>

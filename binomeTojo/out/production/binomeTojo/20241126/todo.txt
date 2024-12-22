@@ -1,0 +1,32 @@
+TO do
+    recherche.php
+        Affichage
+            - Afficher les résultats de recherche avec les critères sélectionnés (Nom, prix min/max, étoile min).
+            - Mettre en place des champs de saisie pour les critères.
+            - Ajouter un bouton pour lancer la recherche.
+        Integration
+            - Intégrer un design responsive pour le formulaire de recherche.
+            - Appliquer des styles CSS pour les résultats affichés.
+            - Intégrer un indicateur de chargement pour les recherches.
+        Base
+            - Créer une table pour les produits avec les colonnes : Nom, Prix, Etoiles.
+            - Ajouter des données d'exemple dans la table.
+        Fonction
+            - Implémenter une fonction pour exécuter la recherche multi-critères.
+            - Ajouter une validation pour vérifier les entrées utilisateur.
+            - Optimiser les requêtes SQL pour de meilleures performances.
+
+    login.php
+        Affichage
+            - Afficher un formulaire de connexion avec champs login/mot de passe.
+            - Ajouter un message d'erreur en cas d'échec.
+        Integration
+            - Intégrer un design simple et clair pour la page de login.
+            - Appliquer des styles pour le bouton de connexion.
+        Base
+            - Créer une table pour les utilisateurs avec colonnes : login, mot_de_passe.
+            - Insérer un utilisateur d'exemple avec login/mdp prédéfinis.
+        Fonction
+            - Implémenter une fonction pour valider le login/mot de passe.
+            - Ajouter une fonction pour gérer les sessions utilisateur.
+            - Protéger contre les attaques par injection SQL.

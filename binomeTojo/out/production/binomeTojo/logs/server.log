@@ -1,0 +1,1678 @@
+Thu Dec 12 17:28:46 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:32:21 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:32:47 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:34:21 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:37:56 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:39:07 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:40:34 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:42:37 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:42:38 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:42:38 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Thu Dec 12 17:42:38 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:42:38 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:42:38 EAT 2024 - Nouvelle session créée : PHPSESSID=a012cc2e-ba9e-4aec-9852-14191841a487
+Thu Dec 12 17:42:38 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Thu Dec 12 17:42:38 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:42:43 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:42:43 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Thu Dec 12 17:42:43 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:42:43 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:42:43 EAT 2024 - Nouvelle session créée : PHPSESSID=306230e5-7624-4217-bf8c-d57aca3fad0d
+Thu Dec 12 17:42:43 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Thu Dec 12 17:42:43 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:43:01 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:43:01 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Thu Dec 12 17:43:01 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:43:01 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:43:01 EAT 2024 - Nouvelle session créée : PHPSESSID=d7b6d4e6-208a-483f-9437-b8f8e73e3963
+Thu Dec 12 17:43:01 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Thu Dec 12 17:43:01 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:43:12 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:43:12 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Thu Dec 12 17:43:12 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:43:12 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:43:12 EAT 2024 - Nouvelle session créée : PHPSESSID=b6984b68-1e99-4c5b-b293-8fc6f0bfcded
+Thu Dec 12 17:43:12 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Thu Dec 12 17:43:12 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:43:41 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:43:42 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:43:42 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Thu Dec 12 17:43:42 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:43:42 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:43:42 EAT 2024 - Nouvelle session créée : PHPSESSID=d97d91cf-a2c9-4bf7-b09e-7c4d3f15feb3
+Thu Dec 12 17:43:42 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Thu Dec 12 17:43:42 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:44:18 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:46:16 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:46:54 EAT 2024 - Serveur démarré sur le port 1566
+Thu Dec 12 17:46:55 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:46:55 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Thu Dec 12 17:46:55 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:46:55 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:46:55 EAT 2024 - Nouvelle session créée : PHPSESSID=3cac4369-0a74-4fc9-815c-1a7e25484147
+Thu Dec 12 17:46:55 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Thu Dec 12 17:46:55 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:47:03 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:47:03 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Thu Dec 12 17:47:03 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:47:03 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:47:03 EAT 2024 - Nouvelle session créée : PHPSESSID=7cb28655-f50f-477b-999f-13e1b4576378
+Thu Dec 12 17:47:03 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Thu Dec 12 17:47:03 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:47:16 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:47:16 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Thu Dec 12 17:47:16 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:47:16 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:47:16 EAT 2024 - Nouvelle session créée : PHPSESSID=2a3a3222-9545-4487-b675-a03c22346eba
+Thu Dec 12 17:47:16 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Thu Dec 12 17:47:16 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:47:24 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:47:24 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Thu Dec 12 17:47:24 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:47:24 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:47:24 EAT 2024 - Nouvelle session créée : PHPSESSID=39edf161-814a-4462-8acd-e4b454940e29
+Thu Dec 12 17:47:24 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Thu Dec 12 17:47:24 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Thu Dec 12 17:47:35 EAT 2024 - Connexion entrante : /127.0.0.1
+Thu Dec 12 17:47:35 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Thu Dec 12 17:47:35 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Content-Length : 0
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Host : localhost:1566
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Upgrade : h2c
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Thu Dec 12 17:47:35 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Thu Dec 12 17:47:35 EAT 2024 - Nouvelle session créée : PHPSESSID=f2593b89-fc89-4405-b5b6-94e44cf4e9ce
+Thu Dec 12 17:47:35 EAT 2024 - Ressource trouvée dans le cache pour /index.php
+Thu Dec 12 17:47:35 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 08:49:29 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 08:49:30 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:49:30 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:49:30 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:49:30 EAT 2024 - Nouvelle session créée : PHPSESSID=d9d2ba23-c31e-48e6-8684-5c2cf1fb656c
+Fri Dec 13 08:49:30 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 08:49:30 EAT 2024 - Erreur dans le traitement de la requête : Connection refused: connect
+Fri Dec 13 08:49:30 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:49:30 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:49:30 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:49:30 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:49:30 EAT 2024 - Nouvelle session créée : PHPSESSID=c4deac26-26f4-4f13-854f-d29f35619ac5
+Fri Dec 13 08:49:30 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 08:49:30 EAT 2024 - Erreur dans le traitement de la requête : Connection refused: connect
+Fri Dec 13 08:49:56 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:49:56 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:49:56 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:49:56 EAT 2024 - Nouvelle session créée : PHPSESSID=837e026f-9a25-47a0-9e2f-47212ac9be27
+Fri Dec 13 08:49:56 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 08:49:56 EAT 2024 - Erreur dans le traitement de la requête : Connection refused: connect
+Fri Dec 13 08:49:56 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:49:56 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:49:56 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:49:56 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:49:56 EAT 2024 - Nouvelle session créée : PHPSESSID=bc97a222-0944-47fd-b259-bd72a2bd3485
+Fri Dec 13 08:49:56 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 08:49:56 EAT 2024 - Erreur dans le traitement de la requête : Connection refused: connect
+Fri Dec 13 08:50:50 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 08:50:51 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:50:51 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:50:51 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:50:51 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:50:51 EAT 2024 - Nouvelle session créée : PHPSESSID=35b4547b-d6b1-4d4b-bc67-61b19cd11bb9
+Fri Dec 13 08:50:51 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 08:50:55 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 08:53:41 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 08:53:42 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:53:42 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:53:42 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:53:42 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:53:42 EAT 2024 - Nouvelle session créée : PHPSESSID=db1872ff-2e37-4cc4-8d36-58e935a9ec8e
+Fri Dec 13 08:53:42 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 08:53:42 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 08:53:59 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:53:59 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:53:59 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:53:59 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:53:59 EAT 2024 - Nouvelle session créée : PHPSESSID=ecbcf4a2-b69f-468f-ae33-b6c5b46e98ae
+Fri Dec 13 08:53:59 EAT 2024 - Ressource trouvée dans le cache pour /
+Fri Dec 13 08:53:59 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 08:58:21 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 08:58:22 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 08:58:22 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 08:58:22 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 08:58:22 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 08:58:22 EAT 2024 - Nouvelle session créée : PHPSESSID=616401ca-3ab7-44cc-ac62-c05701412368
+Fri Dec 13 08:58:22 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 08:58:22 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:05:51 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 09:05:52 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:05:52 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:05:52 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:05:52 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:05:52 EAT 2024 - Nouvelle session créée : PHPSESSID=378e268b-1f2d-46d1-883b-2fcecf61ed9a
+Fri Dec 13 09:05:52 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 09:05:52 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:32:28 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 09:32:29 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:32:29 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:32:29 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:32:29 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:32:29 EAT 2024 - Nouvelle session créée : PHPSESSID=a5c0af6e-4523-469b-95ca-51a93693014f
+Fri Dec 13 09:32:29 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 09:32:29 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:33:01 EAT 2024 - Connexion entrante : /0:0:0:0:0:0:0:1
+Fri Dec 13 09:33:01 EAT 2024 - Connexion entrante : /0:0:0:0:0:0:0:1
+Fri Dec 13 09:33:01 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:33:01 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Connection : keep-alive
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : sec-ch-ua : "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : sec-ch-ua-mobile : ?0
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : sec-ch-ua-platform : "Windows"
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Sec-Fetch-Site : none
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Sec-Fetch-Mode : navigate
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Sec-Fetch-User : ?1
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Sec-Fetch-Dest : document
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Accept-Encoding : gzip, deflate, br, zstd
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Accept-Language : fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Fri Dec 13 09:33:01 EAT 2024 - En-tête : Cookie : Phpstorm-af0074fa=455410bf-5e46-4c9e-b2ce-05d686b4b62a; Idea-95c47c55=a621760a-ce3b-488a-8cc5-14d4e56939b7; tracy-session=e39928e49a
+Fri Dec 13 09:33:01 EAT 2024 - Nouvelle session créée : PHPSESSID=50485eac-1506-4de4-8eca-9a94bc3685bf
+Fri Dec 13 09:33:01 EAT 2024 - Ressource trouvée dans le cache pour /
+Fri Dec 13 09:33:01 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:33:02 EAT 2024 - Requête brute reçue : GET /favicon.ico HTTP/1.1
+Fri Dec 13 09:33:02 EAT 2024 - Requête reçue : Méthode GET pour le chemin /favicon.ico
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Connection : keep-alive
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : sec-ch-ua-platform : "Windows"
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : sec-ch-ua : "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : sec-ch-ua-mobile : ?0
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Accept : image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Sec-Fetch-Site : same-origin
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Sec-Fetch-Mode : no-cors
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Sec-Fetch-Dest : image
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Accept-Encoding : gzip, deflate, br, zstd
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Accept-Language : fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Fri Dec 13 09:33:02 EAT 2024 - En-tête : Cookie : Phpstorm-af0074fa=455410bf-5e46-4c9e-b2ce-05d686b4b62a; Idea-95c47c55=a621760a-ce3b-488a-8cc5-14d4e56939b7; tracy-session=e39928e49a
+Fri Dec 13 09:33:02 EAT 2024 - Nouvelle session créée : PHPSESSID=59b85545-1b12-4c7f-bc6e-f6d22d5a07cc
+Fri Dec 13 09:33:02 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /favicon.ico
+Fri Dec 13 09:33:02 EAT 2024 - XAMPP : Réponse envoyée pour image/x-icon - 200 OK
+Fri Dec 13 09:33:14 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:33:14 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 09:33:14 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:33:14 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:33:14 EAT 2024 - Nouvelle session créée : PHPSESSID=2656d487-2c4d-4229-a874-1423a82aa7d2
+Fri Dec 13 09:33:14 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 09:33:14 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:33:16 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:33:16 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 09:33:16 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:33:16 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:33:16 EAT 2024 - Nouvelle session créée : PHPSESSID=a08d1bcc-362d-4c76-a685-2911bc04534e
+Fri Dec 13 09:33:16 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 09:33:16 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:33:20 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:33:20 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 09:33:20 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:33:20 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:33:20 EAT 2024 - Nouvelle session créée : PHPSESSID=d1564def-88f2-41e2-9bee-19df7f3eade7
+Fri Dec 13 09:33:20 EAT 2024 - Ressource trouvée dans le cache pour /index.php
+Fri Dec 13 09:33:20 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:33:24 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:33:24 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 09:33:24 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:33:24 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:33:24 EAT 2024 - Nouvelle session créée : PHPSESSID=42312d82-a6cf-485f-bddb-627694d36c2a
+Fri Dec 13 09:33:24 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 09:33:24 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:34:01 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 09:34:02 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:34:02 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:34:02 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:34:02 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:34:02 EAT 2024 - Nouvelle session créée : PHPSESSID=04bd5b7e-3af7-4e27-b228-d610371214e7
+Fri Dec 13 09:34:02 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 09:34:02 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:40:04 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 09:40:05 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:40:05 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:40:05 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:40:05 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:40:05 EAT 2024 - Nouvelle session créée : PHPSESSID=9882b9ec-b5e6-460b-8904-88fe1eca1ddb
+Fri Dec 13 09:40:05 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 09:40:05 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:40:25 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:40:25 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:40:25 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:40:25 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:40:25 EAT 2024 - Nouvelle session créée : PHPSESSID=22ac6a8a-df0b-40c1-abfa-33a4a7156128
+Fri Dec 13 09:40:25 EAT 2024 - Ressource trouvée dans le cache pour /
+Fri Dec 13 09:40:25 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:43:56 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 09:43:57 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:43:57 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:43:57 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:43:57 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:43:57 EAT 2024 - Nouvelle session créée : PHPSESSID=c5a28d78-4467-45d3-b786-6734c40f3de2
+Fri Dec 13 09:43:57 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 09:43:57 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:44:14 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:44:14 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 09:44:14 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:44:14 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:44:14 EAT 2024 - Nouvelle session créée : PHPSESSID=5821c7c5-125b-489c-b5a1-c359de650bc2
+Fri Dec 13 09:44:14 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 09:44:14 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:44:15 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:44:15 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 09:44:15 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:44:15 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:44:15 EAT 2024 - Nouvelle session créée : PHPSESSID=ac52d7eb-f033-4a44-8f02-ec28806cf3e3
+Fri Dec 13 09:44:15 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 09:44:15 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:44:16 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:44:16 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 09:44:16 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:44:16 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:44:16 EAT 2024 - Nouvelle session créée : PHPSESSID=d62d194f-5b8f-47d0-a21b-5420f2f7fe25
+Fri Dec 13 09:44:16 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 09:44:16 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 09:49:04 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 09:49:05 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 09:49:05 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 09:49:05 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 09:49:05 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 09:49:05 EAT 2024 - Nouvelle session créée : PHPSESSID=525ac7ef-2deb-470c-9921-9cc0293060c9
+Fri Dec 13 09:49:05 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 09:49:05 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:05:00 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:05:01 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:05:01 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:05:01 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:05:01 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:05:01 EAT 2024 - Nouvelle session créée : PHPSESSID=34fb209b-5026-4053-b94b-4c7ce27e2018
+Fri Dec 13 10:05:01 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:05:01 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:05:09 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:05:09 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:05:09 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:05:09 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:05:09 EAT 2024 - Nouvelle session créée : PHPSESSID=b0cf1746-048a-4dc8-abd4-5ce29e1396bf
+Fri Dec 13 10:05:09 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 10:05:09 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:05:10 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:05:10 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 10:05:10 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:05:10 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:05:10 EAT 2024 - Nouvelle session créée : PHPSESSID=034fa711-ebc6-480b-9933-4dfac48e92d9
+Fri Dec 13 10:05:10 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 10:05:10 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:05:12 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:05:12 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:05:12 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:05:12 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:05:12 EAT 2024 - Nouvelle session créée : PHPSESSID=d224606e-13fb-4d92-a9aa-6fa9920dc826
+Fri Dec 13 10:05:12 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 10:05:12 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:17:10 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:17:11 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:17:11 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:17:11 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:17:11 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:17:11 EAT 2024 - Nouvelle session créée : PHPSESSID=3862be97-ce3a-48b1-b709-4a54fed64dfe
+Fri Dec 13 10:17:11 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:17:11 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:17:18 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:17:18 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:17:18 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:17:18 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:17:18 EAT 2024 - Nouvelle session créée : PHPSESSID=cebd9844-eb00-43c9-89c9-f0783f7fe737
+Fri Dec 13 10:17:18 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 10:17:18 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:17:20 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:17:20 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 10:17:20 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:17:20 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:17:20 EAT 2024 - Nouvelle session créée : PHPSESSID=cdaae582-9f06-429a-b582-d188129b8564
+Fri Dec 13 10:17:20 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 10:17:20 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:31:32 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:31:33 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:31:33 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:31:33 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:31:33 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:31:33 EAT 2024 - Nouvelle session créée : PHPSESSID=1d579f11-fc79-4854-ac96-32b3900dca28
+Fri Dec 13 10:31:33 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:31:33 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:31:35 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:31:35 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:31:35 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:31:35 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:31:35 EAT 2024 - Nouvelle session créée : PHPSESSID=c8ec723a-9c36-4895-9be9-afc14742875d
+Fri Dec 13 10:31:35 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 10:31:35 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:31:37 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:31:37 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 10:31:37 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:31:37 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:31:37 EAT 2024 - Nouvelle session créée : PHPSESSID=6fe98311-f45e-48a8-bc83-f1a40ef7108f
+Fri Dec 13 10:31:37 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 10:31:37 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:41:06 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:41:07 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:41:07 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:41:07 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:41:07 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:41:07 EAT 2024 - Nouvelle session créée : PHPSESSID=7806d207-a967-46fe-86de-5c97503eba2a
+Fri Dec 13 10:41:07 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:41:07 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:42:01 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:42:02 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:42:02 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:42:02 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:42:02 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:42:02 EAT 2024 - Nouvelle session créée : PHPSESSID=a12b2515-2584-41b8-9fe3-0b4f3a2f5bf9
+Fri Dec 13 10:42:02 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:42:02 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:42:07 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:42:07 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:42:07 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:42:07 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:42:07 EAT 2024 - Nouvelle session créée : PHPSESSID=f6cabda7-cdd0-42a6-bb2e-2de5066e59fe
+Fri Dec 13 10:42:07 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 10:42:08 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:42:09 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:42:09 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 10:42:09 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:42:09 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:42:09 EAT 2024 - Nouvelle session créée : PHPSESSID=bcdb43ae-71b4-4d1b-a709-ce95bf9c14e1
+Fri Dec 13 10:42:09 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 10:42:09 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:45:25 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:45:26 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:45:26 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:45:26 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:45:26 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:45:26 EAT 2024 - Nouvelle session créée : PHPSESSID=56330d45-18ba-4f32-92bf-3cd54b04b8dc
+Fri Dec 13 10:45:26 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:45:26 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:45:30 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:45:30 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:45:30 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:45:30 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:45:30 EAT 2024 - Nouvelle session créée : PHPSESSID=b11e8019-dd61-48a6-a341-90679adef678
+Fri Dec 13 10:45:30 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 10:45:30 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:45:31 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:45:31 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 10:45:31 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:45:31 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:45:31 EAT 2024 - Nouvelle session créée : PHPSESSID=ea474585-1b76-4ef8-8087-c90723f9ddc1
+Fri Dec 13 10:45:31 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 10:45:31 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:45:32 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:45:32 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:45:32 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:45:32 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:45:32 EAT 2024 - Nouvelle session créée : PHPSESSID=67ea0e06-8b3d-4e2d-b9f8-d5a398581fe3
+Fri Dec 13 10:45:32 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 10:45:32 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:51:54 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:51:55 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:51:55 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:51:55 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:51:55 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:51:55 EAT 2024 - Nouvelle session créée : PHPSESSID=da38b3e0-9130-41cd-b873-d7e9e6b15349
+Fri Dec 13 10:51:55 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:51:55 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:52:03 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:52:03 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:52:03 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:52:03 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:52:03 EAT 2024 - Nouvelle session créée : PHPSESSID=030bca94-207a-471c-84e8-306f594cdfe8
+Fri Dec 13 10:52:03 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 10:52:03 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:52:05 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:52:05 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 10:52:05 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:52:05 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:52:05 EAT 2024 - Nouvelle session créée : PHPSESSID=0b3ee878-09e9-46db-af56-2d5df1407236
+Fri Dec 13 10:52:05 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 10:52:05 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:59:18 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:59:19 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:59:19 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:59:19 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:59:19 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:59:19 EAT 2024 - Nouvelle session créée : PHPSESSID=3f883f83-6c6c-4ecc-ae3c-5ff1b0ba35b7
+Fri Dec 13 10:59:19 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:59:19 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:59:28 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:59:28 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:59:28 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:59:28 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:59:28 EAT 2024 - Nouvelle session créée : PHPSESSID=c9a844f1-19c5-4a3a-8fe0-29515672ec07
+Fri Dec 13 10:59:28 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 10:59:28 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:59:29 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:59:29 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 10:59:29 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:59:29 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:59:29 EAT 2024 - Nouvelle session créée : PHPSESSID=d079dee2-ee11-4716-9b17-91553a44659f
+Fri Dec 13 10:59:29 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 10:59:29 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:59:31 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:59:31 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 10:59:31 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:59:31 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:59:31 EAT 2024 - Nouvelle session créée : PHPSESSID=4988dfa5-4cfe-49f8-864a-29a69817964e
+Fri Dec 13 10:59:31 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 10:59:31 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 10:59:57 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 10:59:59 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 10:59:59 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 10:59:59 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 10:59:59 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 10:59:59 EAT 2024 - Nouvelle session créée : PHPSESSID=97d2898a-976e-4567-b359-9b2976a8089c
+Fri Dec 13 10:59:59 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 10:59:59 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:00:02 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:00:02 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:00:02 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:00:02 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:00:02 EAT 2024 - Nouvelle session créée : PHPSESSID=7252d810-e769-4e8c-9744-c6f597a2c02f
+Fri Dec 13 11:00:02 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:00:02 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:00:15 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:00:15 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:00:15 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:00:15 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:00:15 EAT 2024 - Nouvelle session créée : PHPSESSID=11cfe50e-4701-4af7-b16d-21a8d01691c2
+Fri Dec 13 11:00:15 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:00:15 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:00:16 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:00:16 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:00:16 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:00:16 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:00:16 EAT 2024 - Nouvelle session créée : PHPSESSID=4e80179d-50ed-4a16-a1b5-a7717da5209d
+Fri Dec 13 11:00:16 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 11:00:16 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:04:42 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:04:43 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:04:43 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:04:43 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:04:43 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:04:43 EAT 2024 - Nouvelle session créée : PHPSESSID=08a4483e-0cd5-4e68-bb95-c7a3a7a1055a
+Fri Dec 13 11:04:43 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:04:43 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:04:49 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:04:49 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:04:49 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:04:49 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:04:49 EAT 2024 - Nouvelle session créée : PHPSESSID=57445a68-cf53-4532-9b79-09fb4efe0385
+Fri Dec 13 11:04:49 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:04:49 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:10:47 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:10:48 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:10:48 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:10:48 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:10:48 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:10:48 EAT 2024 - Nouvelle session créée : PHPSESSID=92830bbc-6864-448b-b31b-ec165f372beb
+Fri Dec 13 11:10:48 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:10:48 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:12:54 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:12:56 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:12:56 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:12:56 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:12:56 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:12:56 EAT 2024 - Nouvelle session créée : PHPSESSID=255545f3-3d52-4942-87fe-fcaef6c95d90
+Fri Dec 13 11:12:56 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:12:56 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:13:04 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:13:04 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:13:04 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:13:04 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:13:04 EAT 2024 - Nouvelle session créée : PHPSESSID=05df190c-ca4c-44d1-8ba7-94d250da5dab
+Fri Dec 13 11:13:04 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:13:04 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:13:06 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:13:06 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:13:06 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:13:06 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:13:06 EAT 2024 - Nouvelle session créée : PHPSESSID=776c3c6c-707b-414f-b34a-9957d23396af
+Fri Dec 13 11:13:06 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:13:06 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:13 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:15:14 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:14 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:15:14 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:14 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:14 EAT 2024 - Nouvelle session créée : PHPSESSID=69270f3b-9ee5-4428-ba0a-1971064ecf49
+Fri Dec 13 11:15:14 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:15:14 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:17 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:17 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:15:17 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:17 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:17 EAT 2024 - Nouvelle session créée : PHPSESSID=87197a4f-c224-4c12-a952-e6021d31eb23
+Fri Dec 13 11:15:17 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:15:17 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:19 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:19 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:15:19 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:19 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:19 EAT 2024 - Nouvelle session créée : PHPSESSID=fe756658-da44-4a56-bee3-11b0775913be
+Fri Dec 13 11:15:19 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:15:19 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:20 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:20 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:15:20 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:20 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:20 EAT 2024 - Nouvelle session créée : PHPSESSID=3b5efbde-d24d-4c42-b76f-8d8f5240ced5
+Fri Dec 13 11:15:20 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 11:15:20 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:22 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:22 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:15:22 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:22 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:22 EAT 2024 - Nouvelle session créée : PHPSESSID=030a0699-9b6d-4a0f-af45-76c7a80b7f72
+Fri Dec 13 11:15:22 EAT 2024 - Ressource trouvée dans le cache pour /index.php
+Fri Dec 13 11:15:22 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:39 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:39 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:15:39 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:39 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:39 EAT 2024 - Nouvelle session créée : PHPSESSID=dccf6680-1b6e-4cd8-9658-defbef5db5c2
+Fri Dec 13 11:15:39 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:15:39 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:54 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:54 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:15:54 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:54 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:54 EAT 2024 - Nouvelle session créée : PHPSESSID=93e6b3d2-0c1e-4780-8586-3d2d7cb1f242
+Fri Dec 13 11:15:54 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:15:54 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:15:56 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:15:56 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:15:56 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Referer : http://localhost:1566/index.php
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:15:56 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:15:56 EAT 2024 - Nouvelle session créée : PHPSESSID=605c211c-8f34-4ae3-a8e3-1ac1e4c660bd
+Fri Dec 13 11:15:56 EAT 2024 - Ressource trouvée dans le cache pour /add.php
+Fri Dec 13 11:15:56 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:16:44 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:16:44 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:16:44 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:16:44 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:16:44 EAT 2024 - Nouvelle session créée : PHPSESSID=44abf7e0-a48d-41ca-9c27-550450c1642a
+Fri Dec 13 11:16:44 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:16:44 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:19:43 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:19:44 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:19:44 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:19:44 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:19:44 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:19:44 EAT 2024 - Nouvelle session créée : PHPSESSID=26feccd0-361d-4559-ab6c-d2f6be667689
+Fri Dec 13 11:19:44 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:19:44 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:19:53 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:19:53 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:19:53 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:19:53 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:19:53 EAT 2024 - Nouvelle session créée : PHPSESSID=5f3a336a-0e5a-4439-91cb-bbfa8d5ad177
+Fri Dec 13 11:19:53 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:19:53 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:19:54 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:19:54 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:19:54 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:19:54 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:19:54 EAT 2024 - Nouvelle session créée : PHPSESSID=65798a1b-c271-48c1-bab1-833018e3a9e6
+Fri Dec 13 11:19:54 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:19:54 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:22:54 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:22:55 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:22:55 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:22:55 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:22:55 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:22:55 EAT 2024 - Nouvelle session créée : PHPSESSID=acce6072-e9a8-4797-ba72-5fdae29da318
+Fri Dec 13 11:22:55 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:22:55 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:23:09 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:23:09 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:23:09 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:23:09 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:23:09 EAT 2024 - Nouvelle session créée : PHPSESSID=21546095-8612-45cb-bb22-d902ffaa128b
+Fri Dec 13 11:23:09 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:23:09 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:23:10 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:23:10 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:23:10 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:23:10 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:23:10 EAT 2024 - Nouvelle session créée : PHPSESSID=cc0926fe-48cf-4034-bf85-5692ae06297b
+Fri Dec 13 11:23:10 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:23:10 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:25:46 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:25:47 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:25:47 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:25:47 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:25:47 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:25:47 EAT 2024 - Nouvelle session créée : PHPSESSID=9d90000b-9e6b-4e86-9afd-b83327c10b10
+Fri Dec 13 11:25:47 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:25:47 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:25:51 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:25:51 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:25:51 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:25:51 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:25:51 EAT 2024 - Nouvelle session créée : PHPSESSID=e8e444d7-1766-4941-8569-7b277bca579b
+Fri Dec 13 11:25:51 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:25:51 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:25:53 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:25:53 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:25:53 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:25:53 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:25:53 EAT 2024 - Nouvelle session créée : PHPSESSID=cfe83745-5aa5-4f68-b894-84c33017242c
+Fri Dec 13 11:25:53 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:25:53 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:27:15 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:27:16 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:27:16 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:27:16 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:27:16 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:27:16 EAT 2024 - Nouvelle session créée : PHPSESSID=23f91da8-aaa7-46ac-82d4-6c7eff2d81ef
+Fri Dec 13 11:27:16 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:27:16 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:27:21 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:27:21 EAT 2024 - Requête brute reçue : GET /add.php HTTP/1.1
+Fri Dec 13 11:27:21 EAT 2024 - Requête reçue : Méthode GET pour le chemin /add.php
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Referer : http://localhost:1566/
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:27:21 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:27:21 EAT 2024 - Nouvelle session créée : PHPSESSID=f12e4b14-cc8a-47fc-8dd7-3b0aee2bbabd
+Fri Dec 13 11:27:21 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /add.php
+Fri Dec 13 11:27:21 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:27:23 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:27:23 EAT 2024 - Requête brute reçue : GET /index.php HTTP/1.1
+Fri Dec 13 11:27:23 EAT 2024 - Requête reçue : Méthode GET pour le chemin /index.php
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Referer : http://localhost:1566/add.php
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:27:23 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:27:23 EAT 2024 - Nouvelle session créée : PHPSESSID=49e15a4f-f2f2-4c7a-aa64-0bdb27992850
+Fri Dec 13 11:27:23 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /index.php
+Fri Dec 13 11:27:23 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:29:49 EAT 2024 - Serveur démarré sur le port 1566
+Fri Dec 13 11:29:50 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:29:50 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:29:50 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:29:50 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:29:50 EAT 2024 - Nouvelle session créée : PHPSESSID=a452595e-a813-452b-bf6d-d48b28ff48c5
+Fri Dec 13 11:29:50 EAT 2024 - Ressource non trouvée dans le cache, transmission à XAMPP pour /
+Fri Dec 13 11:29:50 EAT 2024 - XAMPP : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:29:57 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:29:57 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:29:57 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:29:57 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:29:57 EAT 2024 - Nouvelle session créée : PHPSESSID=868981e1-7276-482e-99af-bf049417f444
+Fri Dec 13 11:29:57 EAT 2024 - Ressource trouvée dans le cache pour /
+Fri Dec 13 11:29:57 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK
+Fri Dec 13 11:30:30 EAT 2024 - Connexion entrante : /127.0.0.1
+Fri Dec 13 11:30:30 EAT 2024 - Requête brute reçue : GET / HTTP/1.1
+Fri Dec 13 11:30:30 EAT 2024 - Requête reçue : Méthode GET pour le chemin /
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Connection : Upgrade, HTTP2-Settings
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Content-Length : 0
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Host : localhost:1566
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : HTTP2-Settings : AAEAAEAAAAIAAAAAAAMAAAAAAAQBAAAAAAUAAEAAAAYABgAA
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Upgrade : h2c
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Accept : text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Accept-Charset : ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Accept-Encoding : gzip, inflate
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Accept-Language : fr-fr,en-us;q=0.8,en;q=0.7
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : Upgrade-Insecure-Requests : 1
+Fri Dec 13 11:30:30 EAT 2024 - En-tête : User-Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/619.1 (KHTML, like Gecko) JavaFX/23 Safari/619.1
+Fri Dec 13 11:30:30 EAT 2024 - Nouvelle session créée : PHPSESSID=81416476-9186-4765-9d62-facfc5e79309
+Fri Dec 13 11:30:30 EAT 2024 - Ressource trouvée dans le cache pour /
+Fri Dec 13 11:30:30 EAT 2024 - Cache : Réponse envoyée pour text/html; charset=UTF-8 - 200 OK

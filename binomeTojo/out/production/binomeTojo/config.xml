@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serverConfig>
+    <server>
+        <port>1566</port>
+        <xamppUrl>http://localhost:80</xamppUrl>
+        <serveur>http://localhost:1566</serveur>
+        <cacheEnabled>true</cacheEnabled>
+        <sessionTimeout>3600</sessionTimeout>
+    </server>
+    <paths>
+        <staticFiles>
+            <path>/static/</path>
+        </staticFiles>
+        <logs>
+            <path>/logs/</path>
+        </logs>
+    </paths>
+</serverConfig>
